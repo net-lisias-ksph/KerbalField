@@ -1,5 +1,7 @@
 # Kerbal Field :: Change Log
 
+* 2018-0519: 2.0f1 (Kernowden-Kerbin) for KSP 1.4.3
+	+ Fix Localization file bug
 * 2018-0518: 2.0 (Kernowden-Kerbin) for KSP 1.4.3
 	+ CN: (China)
 	+ Newly added：
