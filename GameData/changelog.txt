@@ -1,6 +1,26 @@
 --------------------------------------------------------------------
+Version V2.4.1 For KSP 1.6.X
+
+
+Improvement:
+
+
+
+
+Additional optional armor was added to the 99A
+Remade HHQ-10 missile
+Some data have been adjusted.
+
+改进：
+为99A车体新增了可选择的附加装甲
+重做了海红旗10导弹
+调整了部分数据
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 Version V2.4 For KSP 1.6.X
-Add:
+
+	Add:
 
 
 China:
