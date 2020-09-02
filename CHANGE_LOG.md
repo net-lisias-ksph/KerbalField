@@ -1,5 +1,16 @@
 # Kerbal Field :: Change Log
 
+* 2018-0801: 2.2 (Kernowden-Kerbin) for KSP 1.4.4
+	+ Version 2.2
+	+ Newly added:
+	+ Russian Object120 turret
+	+ Improvement:
+	+ Remade the PGZ07 anti-aircraft gun
+	+ Remade the M2HB heavy machine gun
+	+ Added a new air-to-air missile effect（AIM120D,AIM9X,PL10,PL12,RVV）
+	+ Fixed the problem that the air-to-air missile thrust time is too long
+	+ Fixed incorrect data for HE shell damage
+	+ Fine-tuning of other details
 * 2018-0709: 2.1 (Kernowden-Kerbin) for KSP 1.4.4
 	+ Newly added:
 	+ Russian 2S25M turret
