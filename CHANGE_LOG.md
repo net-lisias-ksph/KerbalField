@@ -1,5 +1,13 @@
 # Kerbal Field :: Change Log
 
+* 2018-0709: 2.1 (Kernowden-Kerbin) for KSP 1.4.4
+	+ Newly added:
+	+ Russian 2S25M turret
+	+ Improvement:
+	+ Adjust the armored setting of the tank turret
+	+ Fix local language problems
+	+ The performance of the AESA radar is adjusted
+	+ Adjust the missile according to the new BDA version
 * 2018-0519: 2.0f1 (Kernowden-Kerbin) for KSP 1.4.3
 	+ Fix Localization file bug
 * 2018-0518: 2.0 (Kernowden-Kerbin) for KSP 1.4.3
