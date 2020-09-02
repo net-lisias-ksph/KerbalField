@@ -1,4 +1,77 @@
 --------------------------------------------------------------------
+Version V2.4 For KSP 1.6.X
+Add:
+
+
+China:
+Type 59 Tank Turret with Type 94 Anti-tank cannon
+PL-15 Long Range Air-to-Air Missile
+
+YJ-9E small anti-ship missile
+
+Europe:
+Bk27 Gun System
+
+Russia:
+GSH230 Dual-barrel 30MM Gun System
+
+
+Heavy Composite Armor Module
+
+
+23MM self-defense turret equipped on TU-4
+
+
+The turret of T62M1 tank
+
+
+
+Improvement:
+
+
+
+
+The armor piercing performance of some projectiles has been adjusted.
+
+
+For PL-10, AIM-9X adds over-the-shoulder launch capability (requiring radar assistance)
+
+Adjusted the mapping of D30 howitzer
+
+
+The performance of AESA radar is reduced.
+
+
+
+
+新增：
+
+中国：
+搭载了94式反坦克炮的59式坦克炮塔
+霹雳15远程空空导弹
+鹰击9E小型空对地导弹
+
+欧洲：
+Bk27航炮系统
+
+俄罗斯：
+GSH230双管30MM航炮系统
+重型复合装甲模块
+TU-4上装备的23MM自卫炮塔
+T62M1坦克的炮塔（抛壳）
+
+美国：
+暂无
+
+
+改进：
+调整了部分弹种的穿甲性能
+为PL-10,AIM-9X增加了越肩发射能力（需要雷达辅助）
+调整了D30榴弹炮的贴图
+削减了AESA雷达的性能
+（还有一些调整但是我忘了是啥）
+
+--------------------------------------------------------------------
 Version V2.3 For KSP 1.4.X
 
 Newly added:
