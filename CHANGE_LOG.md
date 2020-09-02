@@ -1,5 +1,24 @@
 # Kerbal Field :: Change Log
 
+* 2019-0324: 2.4.1 (Kernowden-Kerbin) for KSP 1.6.1
+	+ changelog:
+	+ Add:
+	+ China:
+	+ Type 59 Tank Turret with Type 94 Anti-tank cannon
+	+ PL-15 Long Range Air-to-Air Missile
+	+ YJ-9E small anti-ship missile
+	+ Europe:
+	+ Bk27 Gun System
+	+ Russia:
+	+ GSH230 Dual-barrel 30MM Gun System
+	+ Heavy Composite Armor Module
+	+ 23MM self-defense turret equipped on TU-4
+	+ The turret of T62M1 tank
+	+ Improvement:
+	+ The armor piercing performance of some projectiles has been adjusted.
+	+ For PL-10, AIM-9X adds over-the-shoulder launch capability (requiring radar assistance)
+	+ Adjusted the mapping of D30 howitzer
+	+ The performance of AESA radar is reduced.
 * 2019-0127: 2.4 (Kernowden-Kerbin) for KSP 1.6.1
 	+ Add:
 	+ China:
