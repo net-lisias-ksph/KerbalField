@@ -1,5 +1,27 @@
 # Kerbal Field :: Change Log
 
+* 2018-1012: 2.3 (Kernowden-Kerbin) for KSP 1.4.5
+	+ Newly added:
+	+ China:
+	+ Red flag 19（HQ-19） anti-missile intercept missile
+	+ Eagle strike 18（YJ-18） anti-ship missile
+	+ Europe:
+	+ MG3 machine gun weapon station (please remove the original CROWS762)
+	+ Flare shell launcher (artillery)
+	+ French Hispano-Suiza HS.404
+	+ Germany MG151/20
+	+ German MK103
+	+ Russia:
+	+ AK176MA turret (please remove the original AK176M)
+	+ Rail-176 shipborne electromagnetic gun (fictional)
+	+ SS-26 Iskander Ground-Ground Tactical Missile
+	+ United States:
+	+ ALASM-N air-launched anti-satellite nuclear missile (fictional)
+	+ Improvement:
+	+ Reset HQ-9B models and textures
+	+ Fixed the weight of HQ-9B from 0.4t to 1.3t
+	+ Replace the original AK176M with AK176MA
+	+ Replace the original CROWS762 with MG3 machine gun
 * 2018-0801: 2.2 (Kernowden-Kerbin) for KSP 1.4.4
 	+ Version 2.2
 	+ Newly added:
